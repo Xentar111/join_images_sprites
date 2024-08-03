@@ -1,0 +1,5 @@
+to_combine_effects/
+output/
+.env/
+
+*.rar
